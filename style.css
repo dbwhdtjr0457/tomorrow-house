@@ -1,5 +1,6 @@
 p {
   color: red;
+  display: block;
   background-color: blue; }
 
 .box {
