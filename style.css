@@ -1,2 +1,7 @@
 p {
-  color: red; }
+  color: red;
+  background-color: blue; }
+
+.box {
+  color: red;
+  background-color: blue; }
